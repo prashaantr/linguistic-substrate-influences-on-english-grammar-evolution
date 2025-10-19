@@ -1,0 +1,5 @@
+This research project aims to examine the historical development of English grammar through the lens of language contact and substrate influence, with a particular focus on features that may have originated from Celtic languages. The study will analyze the emergence of do-support, a grammatical construction relatively unique to English among Germanic languages, and evaluate evidence for Celtic substrate influence.
+
+The investigation will combine historical linguistics data with comparative analysis of Celtic languages (particularly Welsh and Irish) and other Germanic languages to trace the development of these grammatical features. The research will also consider alternative explanations and examine parallel developments in other language contact situations to establish a robust framework for evaluating substrate influences.
+
+The project will utilize both diachronic corpus analysis and systematic comparison of syntactic structures across related languages to build a comprehensive understanding of these linguistic developments.
